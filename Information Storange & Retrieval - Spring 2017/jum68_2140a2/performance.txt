@@ -1,0 +1,13 @@
+My code is able to generate the results.
+The result files of processing first 1000 documents are shown in "jum68_2140a2/Scripts/data/indextext(or)indexweb/"
+
+
+[Console OutPut]
+totaly document count:  1000
+index web corpus running time: 7.7828333333333335 min
+ >> the token "acow" appeared in 0 documents and 0 times in total
+load index & retrieve running time: 0.00445 min
+totaly document count:  1000
+index text corpus running time: 0.36923333333333336 min
+ >> the token "yhoo" appeared in 0 documents and 0 times in total
+load index & retrieve running time: 0.002616666666666667 min

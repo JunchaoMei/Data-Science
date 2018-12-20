@@ -1,0 +1,12 @@
+Time consumed to finish running my codes: about 1 hour.
+This may caused by the character-based file-reading method used in my scripts instead of line-based file-reading.
+
+And I feel very sorry for the late submission, this course is pretty hard for non-IS-major students like me.
+But I will definitely try my best to improve algorithms for the rest of our assignments.
+
+My code is able to generate the results.
+A Part of result file is shown in "jum68_2140a1/Scripts/data/result_sample.trectext"
+
+Documents in corpus [docset.trectext]: about 6e5 documents
+Documents in corpus [docset.trecweb]: about 4e5 documents
+

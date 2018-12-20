@@ -1,0 +1,8 @@
+1. In file folder "Java_Project/data/", replace [result.trecweb_placeholder.txt] with [result.trecweb], replace [result.trectext_placeholder.txt] with [result.trectext]
+2. Create a java project in IDE, import file folder "Java_Project" into it
+3. Build paths for 2 libraries (lucene-analyzers-common-5.3.1, lucene-core-5.3.1)
+4. Run HW2MainLucene
+5. Remove paths for those 2 previous libraries
+6. Build paths for 4 libraries (lucene-analyzers-common-6.3.0, lucene-core-6.3.0,lucene-queryparser-6.3.0,lucene-backward-codecs-6.3.0.jar)
+7. Run HW3Main, get the "HW3_results.txt", which can be compared with result of HW4
+8. Run HW4Main, result is shown in "Report.txt"

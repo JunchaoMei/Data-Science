@@ -1,0 +1,15 @@
+Java Version: Oracle JDK1.8.0_91
+
+[How to read my scripts]
+1. All scripts are in folder "jum68_2140a1/Scripts/src/"
+2. Six pre-defined scripts edited by me are in folder "jum68_2140a1/Scripts/src/PreProcessData"
+3. One new-defined script [Test.java] created by me for testing other six scripts separately is in folder "jum68_2140a1/Scripts/src/PreProcessData"
+4. Scripts in folder "jum68_2140a1/Scripts/src/PreProcessData/Basic_Methods" are for me to design and  test basic methods used for pre-process data
+5. Pre-written scripts [Path.java] & [Stemmer.java] are in folder "jum68_2140a1/Scripts/src/Classes"
+6. Pre-written script [HW1Main.java] is in folder "jum68_2140a1/Scripts/src/"
+
+[How to run my scripts]
+1. copy file [docset.trectext] into folder "Scripts/data/" and replace [docset.trectext.txt]
+2. copy file [docset.trecweb] into folder "Scripts/data/" and replace [docset.trecweb.txt]
+3. create a Java project in IDE, import all files in folder "Scripts/" into this project
+4. run HW1Main.java
